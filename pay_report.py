@@ -9,5 +9,5 @@ total_weekly_pay = 0
 report_lines.append("Weekly Pay Report")
 report_lines.append("=" * 30)
 for emp in employees:
-    weekly_pay = emp.pay_rate * emp.hours
+    weekly_pay = hourly_rate * hours 1
     
